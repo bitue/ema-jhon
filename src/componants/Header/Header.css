@@ -1,0 +1,18 @@
+.header img{
+    height: 80px;
+    
+}
+.header{
+    text-align: center;
+}
+nav {
+    background-color: black; 
+    
+}
+nav a{
+    color: white; padding: 10px ; margin-right: 10px; text-decoration: none;
+    display: inline-block;
+}
+nav a:hover{
+    background-color: gray;
+}
